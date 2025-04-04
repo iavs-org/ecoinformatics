@@ -3,15 +3,19 @@ offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Welcome! This is the landing page for updates on our ongoing seminar series.
 
-## April 11, 2025 14:00 CEST: Functional Trait Diversity - Calculating and Interpreting a Key Component of Biodiversity
+## Functional Trait Diversity - Calculating and Interpreting a Key Component of Biodiversity
 3-Hour Special Session
 
-**Speakers**: Francesco de Bello and Lars Götzenberger  
+**Speakers**: Francesco de Bello and Lars Götzenberger
 
-[Register here](https://shorturl.at/TELaj)
+**Time and date**: April 11, 2025 14:00 CEST
 
-## May 9, 2025 14:00 CEST: TRY - a global trait database
+[Register here](https://us06web.zoom.us/meeting/register/IhFMbnVmSBC4b9WHuEARqA)
+
+## TRY - a global trait database
 
 **Speaker**: Jens Kattge
 
-[Register here]()
+**Time and date**: May 9, 2025 14:00 CEST
+
+[Register here](https://us06web.zoom.us/meeting/register/MweRCDKgQXWW9upjOj5f3A)
