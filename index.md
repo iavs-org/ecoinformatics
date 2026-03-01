@@ -3,14 +3,14 @@ Offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Welcome! This is the landing page for updates on our ongoing seminar series.
 
-## Key questions in functional biogeography
+## Next event
 
-### Leveraging regional trait databases to examine them, examples using the Rasgos-CL database
+### Open Vegetation Data: New Resources & Tools
 
-**Speaker**: Dylan Craven (Universidad Mayor)
+**Speakers**: Milan Chytrý, Irena Axmanova, Jan Divišek, Klará Friesová (Masaryk University, Brno)
 
-**Time and date**: May 30, 2025 14:00 CEST
+**Time and date**: March 13, 2026 14:00 CET
 
-[Register here](https://us06web.zoom.us/meeting/register/613sk1YUTLyEGy94CwQlUA)
+[Register here](https://us06web.zoom.us/meeting/register/MRGrxkjsQZqqVkzune_DNA)
 
-![Flyer_CuttingvEdgeTools_4](https://github.com/user-attachments/assets/2a076916-c5aa-4c9f-894d-04945c375fb2)
+![](flyers/CuttingvEdgeTools_March26.png)
