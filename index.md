@@ -3,6 +3,8 @@ Offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Welcome! This is the landing page for updates on our ongoing seminar series.
 
+[View past seminars](history.md)
+
 ## Next event
 
 ### Open Vegetation Data: New Resources & Tools
@@ -13,4 +15,4 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 [Register here](https://us06web.zoom.us/meeting/register/MRGrxkjsQZqqVkzune_DNA)
 
-![](flyers/CuttingvEdgeTools_March26.png)
+![Flyer for March 2026 seminar](flyers/CuttingvEdgeTools_March26.png)
