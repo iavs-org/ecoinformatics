@@ -7,12 +7,12 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 ## Next event
 
-### Open Vegetation Data: New Resources & Tools
+### From a vegetation-plot database to a GBIF dataset
 
-**Speakers**: Milan Chytrý, Irena Axmanova, Jan Divišek, Klará Friesová (Masaryk University, Brno)
+**Speakers**: Martin Večeřa, Salza Palpurina, and Ilona Knollová
 
-**Time and date**: March 13, 2026 14:00 CET
+**Time and date**: March 27, 2026 14:00 CET
 
-[Register here](https://us06web.zoom.us/meeting/register/MRGrxkjsQZqqVkzune_DNA)
+[Register here](https://us06web.zoom.us/meeting/register/VKndo5ynTRa34qy5mlEZFA)
 
 ![Flyer for March 2026 seminar](flyers/CuttingvEdgeTools_March26.png)
