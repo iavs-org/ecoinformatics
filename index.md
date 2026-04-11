@@ -7,12 +7,12 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 ## Next event
 
-### From a vegetation-plot database to a GBIF dataset
+### Revealing the ecological drivers of stability in community time series
 
-**Speakers**: Martin Večeřa, Salza Palpurina, and Ilona Knollová
+**Speaker**: Jules Segrestin
 
-**Time and date**: March 27, 2026 14:00 CET
+**Time and date**: March 24, 2026 15:00 CET
 
-[Register here](https://us06web.zoom.us/meeting/register/VKndo5ynTRa34qy5mlEZFA)
+[Register here](https://us06web.zoom.us/meeting/register/4ZD2xn1aTbizobNJ3Q2CiQ)
 
-![Flyer for March 2026 seminar](flyers/CuttingvEdgeTools_March26.png)
+![](flyers/Flyer_EcoInfo_AprMay.png)
