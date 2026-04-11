@@ -5,6 +5,8 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 [View past seminars](history.md)
 
+[Follow upcoming events](https://calendar.google.com/calendar/u/3?cid=OTgxZGNmNzFmMDliYzYxZGYzYTZkMmM3MzZmMzRlMzk0ZGUwNjRhN2U0ZmQxZDVjNmFlZTIzYzYwYWM3NTgzMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 ## Next event
 
 ### Revealing the ecological drivers of stability in community time series
