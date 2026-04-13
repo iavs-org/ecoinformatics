@@ -7,6 +7,12 @@ Offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Recordings of the seminars can be found in the Ecoinformatics section of [the IAVS website](https://www.iavs.org) (restricted to IAVS members).
 
+**From a vegetation-plot database to a GBIF dataset**  
+Martin Večeřa, Salza Palpurina and Ilona Knollová — March 27, 2026
+
+**Open Vegetation Data: New Resources & Tools**  
+Milan Chytrý, Irena Axmanová, Jan Divíšek & Klára Friesová — March 13, 2026
+
 **Key questions in functional biogeography**  
 Dylan Craven — May 30, 2025
 
