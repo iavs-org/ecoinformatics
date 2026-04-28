@@ -7,6 +7,9 @@ Offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Recordings of the seminars can be found in the Ecoinformatics section of [the IAVS website](https://www.iavs.org) (restricted to IAVS members).
 
+**Revealing the ecological drivers of stability in community time series**
+Jules Segrestin — April 24, 2026
+
 **From a vegetation-plot database to a GBIF dataset**  
 Martin Večeřa, Salza Palpurina and Ilona Knollová — March 27, 2026
 
