@@ -9,12 +9,12 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 ## Next event
 
-### Revealing the ecological drivers of stability in community time series
+### Calculating stability across levels of biological organization
 
-**Speaker**: Jules Segrestin
+**Speakers**: Charlotte Kunze and Viktoriia Radchuk
 
-**Time and date**: March 24, 2026 15:00 CET
+**Time and date**: May 30, 2026 13:00 CEST
 
-[Register here](https://us06web.zoom.us/meeting/register/4ZD2xn1aTbizobNJ3Q2CiQ)
+[Register here](https://us06web.zoom.us/meeting/register/JDX3bxXiR0ON-xo0DlxBEw)
 
-![](flyers/Flyer_EcoInfo_AprMay.png)
+![](flyers/CuttingvEdgeTools_AprMay26.png)
