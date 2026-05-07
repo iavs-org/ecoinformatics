@@ -13,7 +13,7 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 **Speakers**: Charlotte Kunze and Viktoriia Radchuk
 
-**Time and date**: May 30, 2026 13:00 CEST
+**Time and date**: May 29 2026, 13:00 CEST
 
 [Register here](https://us06web.zoom.us/meeting/register/JDX3bxXiR0ON-xo0DlxBEw)
 
