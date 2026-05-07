@@ -17,4 +17,4 @@ Welcome! This is the landing page for updates on our ongoing seminar series.
 
 [Register here](https://us06web.zoom.us/meeting/register/JDX3bxXiR0ON-xo0DlxBEw)
 
-![](flyers/CuttingvEdgeTools_AprMay26.png)
+![](flyers/CuttingvEdgeTools_AprMay2026.png)
