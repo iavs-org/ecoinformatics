@@ -7,6 +7,9 @@ Offered by: International Association of Vegetation Science, Working Group Ecoin
 
 Recordings of the seminars can be found in the Ecoinformatics section of [the IAVS website](https://www.iavs.org) (restricted to IAVS members).
 
+**Calculating stability across levels of biological organization**  
+Charlotte Kunze and Viktoriia Radchuk — May 29, 2026
+
 **Revealing the ecological drivers of stability in community time series**  
 Jules Segrestin — April 24, 2026
 
